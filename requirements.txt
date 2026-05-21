@@ -1,0 +1,8 @@
+streamlit
+wandb
+plotly
+pillow
+numpy
+tensorflow==2.20.0
+matplotlib
+huggingface_hub
