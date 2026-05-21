@@ -3,6 +3,6 @@ wandb
 plotly
 pillow
 numpy
-tensorflow==2.20.0
+tensorflow
 matplotlib
 huggingface_hub
